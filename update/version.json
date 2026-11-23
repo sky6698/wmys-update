@@ -1,20 +1,23 @@
 {
   "schema": 1,
-  "latest": "0.3.176+302",
-  "build": 302,
+  "latest": "0.3.177+303",
+  "build": 303,
   "minBuild": 280,
   "publishedAt": "2026-11-23",
-  "notes": "测试发布：0.3.154+280 → 0.3.176+302 增量更新，验证更新链路。",
-  "downloadBase": "https://raw.githubusercontent.com/sky6698/wmys-update/main/update/302/",
+  "notes": "0.3.177+303：彩蛋清单新格式解析、直播 UA 正确落位、移除软件内置订阅（全网通/河南移动/星海）。内核增量更新，用户数据不动。",
+  "downloadBase": "https://raw.githubusercontent.com/sky6698/wmys-update/main/update/303/",
   "packs": {
     "kernel": {
       "file": "wmys-kernel.zip",
-      "size": 6489863,
-      "md5": "2ae56a29b416a33161042380c8df7abf"
+      "size": 6505303,
+      "md5": "f486bbc34eedae54e881d554f442f15c"
     }
   },
   "deltas": {
     "280": [
+      "kernel"
+    ],
+    "302": [
       "kernel"
     ]
   }
