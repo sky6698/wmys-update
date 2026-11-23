@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "latest": "0.3.176+302",
+  "build": 302,
+  "minBuild": 280,
+  "publishedAt": "2026-11-23",
+  "notes": "测试发布：0.3.154+280 → 0.3.176+302 增量更新，验证更新链路。",
+  "downloadBase": "https://raw.githubusercontent.com/sky6698/wmys-update/main/update/302/",
+  "packs": {
+    "kernel": {
+      "file": "wmys-kernel.zip",
+      "size": 6489863,
+      "md5": "2ae56a29b416a33161042380c8df7abf"
+    }
+  },
+  "deltas": {
+    "280": [
+      "kernel"
+    ]
+  }
+}
