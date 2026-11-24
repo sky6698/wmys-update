@@ -9,8 +9,8 @@
   "packs": {
     "kernel": {
       "file": "wmys-kernel.zip",
-      "size": 6505303,
-      "md5": "f486bbc34eedae54e881d554f442f15c"
+      "size": 6508438,
+      "md5": "aef8a9eab2274d182cb3c53414913a7d"
     }
   },
   "deltas": {
