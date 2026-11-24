@@ -1,16 +1,16 @@
 {
   "schema": 1,
-  "latest": "0.3.177+304",
-  "build": 304,
+  "latest": "0.3.177+308",
+  "build": 308,
   "minBuild": 280,
   "publishedAt": "2026-11-24",
-  "notes": "0.3.177+304：修复更新落地器回滚备份目录、版本号更新。内核增量更新，用户数据不动。",
-  "downloadBase": "https://raw.githubusercontent.com/sky6698/wmys-update/main/update/304/",
+  "notes": "0.3.177+308：详情页遮罩铺满/选集四行/续播提示、软件更新页改造与加速源自动测速、主页顶栏按钮与搜索框 hover 高亮。内核增量更新，用户数据不动。",
+  "downloadBase": "https://raw.githubusercontent.com/sky6698/wmys-update/main/update/308/",
   "packs": {
     "kernel": {
       "file": "wmys-kernel.zip",
-      "size": 6508476,
-      "md5": "0a1d9f3f396303ad739c09f012987f4c"
+      "size": 6520539,
+      "md5": "7077c4080752fc6feb25e2dcd9d2c9f1"
     }
   },
   "deltas": {
@@ -21,6 +21,9 @@
       "kernel"
     ],
     "303": [
+      "kernel"
+    ],
+    "304": [
       "kernel"
     ]
   }
